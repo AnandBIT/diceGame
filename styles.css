@@ -13,6 +13,10 @@
 body {
   background-color: #393E46 !important;
 }
+.btn{
+  font-size: 2.5rem !important;
+  background-color: #4ECCA3 !important;
+}
 
 
 h1 {
@@ -36,6 +40,7 @@ img {
 footer {
   margin-top: 5% !important;
   color: #EEEEEE !important;
+  font-size: 1.8rem;
   text-align: center !important;
   font-family: 'Indie Flower', cursive !important;
 }
